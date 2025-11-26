@@ -77,8 +77,7 @@ The dashboard consists of **2 pages**:
 Data Analyst | Power BI Developer | SQL | Python
 
 GitHub: https://github.com/shyamcodes-ai  
-LinkedIn: www.linkedin.com/in/
-g-shyam-venkat-304ab536b
+LinkedIn: www.linkedin.com/in/g-shyam-venkat-304ab536b
 
 
 ---

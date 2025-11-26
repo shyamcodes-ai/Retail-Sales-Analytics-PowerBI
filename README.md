@@ -1,2 +1,84 @@
-# Retail-Sales-Analytics-PowerBI
-Retail Sales &amp; Profit Analysis using Power BI, SQL, and DAX — actionable insights, KPIs, and dashboard design for business performance improvement.
+# 📊 Retail Sales Analytics – Power BI Project
+
+A complete end-to-end **Data Analytics case study** built using **Power BI, SQL, and DAX**.  
+Designed to highlight strong data analysis, visualization, modeling, and storytelling skills.
+
+---
+
+## 🚀 Project Overview
+This project analyzes **retail sales performance** to uncover insights across segments, categories, regions, and customer behavior.
+
+The dashboard consists of **2 pages**:
+
+### **🔹 Page 1 — Sales Performance Dashboard**
+- Total Sales  
+- Total Profit  
+- Profit Margin  
+- Cancellation Rate  
+- Sales by Category (Bar Chart)  
+- Sales by Region (Donut Chart)  
+- Sales Trend by Year (Line Chart)  
+- Segment-wise Sales (Slicer + Line Chart)  
+
+### **🔹 Page 2 — Customer & Product Insights**
+- Avg Order Value (AOV)  
+- Repeat Customers  
+- Repeat Rate  
+- Avg Orders per Customer  
+- Sales by Category  
+- Sales by Region  
+- Segment Slicer  
+
+---
+
+## 🛠️ Tech Stack Used
+- **Power BI Desktop**
+- **Power Query**
+- **DAX**
+- **SQL**
+- **Data Modeling (Star Schema)**
+- **GitHub**
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| `Retail_Sales_Analytics_Project1.pbix` | Power BI Dashboard File |
+| `Retail_Sales_Analytics_Dashboard.pdf` | Exported PDF Report (Page 1 & 2) |
+| `Retail_Sales_Analytics_Queries.sql` | SQL queries used in analysis |
+| `Images/dashboard_page_1.png` | Screenshot of Page 1 |
+| `Images/dashboard_page_2.png` | Screenshot of Page 2 |
+
+---
+
+## 📸 Dashboard Preview
+
+### **Page 1 – Sales Performance Dashboard**
+![Dashboard Page 1](Images/dashboard_page_1.png)
+
+### **Page 2 – Customer & Product Insights**
+![Dashboard Page 2](Images/dashboard_page_2.png)
+
+---
+
+## 📈 Key Business Insights From This Project
+- The **Consumer segment** generates the highest revenue.
+- **Technology category** drives the largest share of sales.
+- The **West region** performs significantly better than others.
+- Repeat customers contribute strongly to overall profitability.
+- AOV indicates customers buy in moderate amounts consistently.
+
+---
+
+## 👤 Author
+**Shyam Venkat**  
+Data Analyst | Power BI Developer | SQL | Python
+
+GitHub: https://github.com/shyamcodes-ai  
+LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+## ⭐ If you like this project, give the repository a star!

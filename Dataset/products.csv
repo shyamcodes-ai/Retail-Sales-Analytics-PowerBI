@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,price,cost,launch_date
+P0001,Educational Product 1,Toys,Educational,359.61,200.03,2023-07-18
+P0002,Furniture Product 2,Home & Kitchen,Furniture,283.41,165.76,2022-07-29
+P0003,Puzzles Product 3,Toys,Puzzles,377.72,291.99,2022-06-28
+P0004,Hair Care Product 4,Beauty,Hair Care,482.76,269.35,2022-07-11
+P0005,Furniture Product 5,Home & Kitchen,Furniture,271.9,183.9,2022-02-24
+P0006,Skin Care Product 6,Beauty,Skin Care,271.9,198.22,2024-05-09
+P0007,Kitchen Appliances Product 7,Home & Kitchen,Kitchen Appliances,489.51,341.34,2022-01-14
+P0008,Staples Product 8,Grocery,Staples,392.09,284.08,2023-11-28
+P0009,Men Product 9,Clothing,Men,243.66,147.13,2023-11-21
+P0010,Mobile Product 10,Electronics,Mobile,565.11,364.49,2024-01-06
+P0011,Snacks Product 11,Grocery,Snacks,244.39,171.3,2022-03-30
+P0012,Action Figures Product 12,Toys,Action Figures,244.11,166.99,2024-02-15
+P0013,Audio Product 13,Electronics,Audio,529.04,400.67,2024-01-11
+P0014,Skin Care Product 14,Beauty,Skin Care,70.41,51.13,2022-04-04
+P0015,Educational Product 15,Toys,Educational,93.01,69.13,2022-06-13
+P0016,Staples Product 16,Grocery,Staples,232.53,178.26,2024-02-18
+P0017,Women Product 17,Clothing,Women,178.46,126.51,2024-01-18
+P0018,Kitchen Appliances Product 18,Home & Kitchen,Kitchen Appliances,337.71,215.74,2023-07-01
+P0019,Puzzles Product 19,Toys,Puzzles,191.04,136.02,2022-12-17
+P0020,Makeup Product 20,Beauty,Makeup,130.52,79.77,2024-08-04
+P0021,Outdoor Product 21,Sports,Outdoor,475.88,379.46,2023-03-26
+P0022,Action Figures Product 22,Toys,Action Figures,272.91,207.61,2022-04-25
+P0023,Furniture Product 23,Home & Kitchen,Furniture,308.1,231.46,2024-04-01
+P0024,Men Product 24,Clothing,Men,129.03,77.77,2023-10-07
+P0025,Decor Product 25,Home & Kitchen,Decor,234.67,158.36,2024-07-28
+P0026,Kitchen Appliances Product 26,Home & Kitchen,Kitchen Appliances,313.31,183.26,2023-06-23
+P0027,Puzzles Product 27,Toys,Puzzles,161.88,106.37,2024-03-28
+P0028,Men Product 28,Clothing,Men,345.08,275.83,2022-10-11
+P0029,Hair Care Product 29,Beauty,Hair Care,227.92,130.54,2022-04-07
+P0030,Staples Product 30,Grocery,Staples,265.0,155.88,2022-11-24
+P0031,Beverages Product 31,Grocery,Beverages,227.8,149.33,2022-05-11
+P0032,Outdoor Product 32,Sports,Outdoor,522.27,365.05,2024-08-16
+P0033,Hair Care Product 33,Beauty,Hair Care,298.38,236.55,2022-01-24
+P0034,Puzzles Product 34,Toys,Puzzles,173.07,100.14,2023-07-01
+P0035,Beverages Product 35,Grocery,Beverages,398.71,253.2,2023-08-25
+P0036,Fitness Product 36,Sports,Fitness,153.5,101.84,2023-06-24
+P0037,Skin Care Product 37,Beauty,Skin Care,325.06,220.04,2022-08-06
+P0038,Beverages Product 38,Grocery,Beverages,64.84,40.5,2023-02-12
+P0039,Kitchen Appliances Product 39,Home & Kitchen,Kitchen Appliances,140.62,104.15,2022-01-02
+P0040,Hair Care Product 40,Beauty,Hair Care,323.62,217.52,2022-08-18
+P0041,Women Product 41,Clothing,Women,388.62,237.0,2023-05-09
+P0042,Skin Care Product 42,Beauty,Skin Care,320.56,183.17,2024-09-22
+P0043,Staples Product 43,Grocery,Staples,286.12,227.32,2022-09-15
+P0044,Decor Product 44,Home & Kitchen,Decor,263.87,176.48,2022-12-05
+P0045,Kids Product 45,Clothing,Kids,122.58,94.15,2024-05-16
+P0046,Decor Product 46,Home & Kitchen,Decor,213.62,157.83,2023-02-16
+P0047,Action Figures Product 47,Toys,Action Figures,244.72,159.01,2024-02-04
+P0048,Indoor Product 48,Sports,Indoor,426.85,282.95,2023-05-23
+P0049,Furniture Product 49,Home & Kitchen,Furniture,341.23,216.52,2023-04-17
+P0050,Skin Care Product 50,Beauty,Skin Care,88.44,48.8,2022-05-01
+P0051,Furniture Product 51,Home & Kitchen,Furniture,338.89,263.1,2023-11-08
+P0052,Laptop Product 52,Electronics,Laptop,453.79,281.18,2024-09-21
+P0053,Decor Product 53,Home & Kitchen,Decor,218.77,127.56,2024-08-26
+P0054,Kitchen Appliances Product 54,Home & Kitchen,Kitchen Appliances,373.4,280.75,2023-01-25
+P0055,Mobile Product 55,Electronics,Mobile,623.72,445.8,2023-12-27
+P0056,Outdoor Product 56,Sports,Outdoor,411.75,274.54,2022-04-21
+P0057,Puzzles Product 57,Toys,Puzzles,199.29,158.64,2022-07-21
+P0058,Accessories Product 58,Electronics,Accessories,462.89,338.86,2022-08-12
+P0059,Furniture Product 59,Home & Kitchen,Furniture,339.75,203.02,2024-07-07
+P0060,Kitchen Appliances Product 60,Home & Kitchen,Kitchen Appliances,417.07,248.52,2024-08-05
+P0061,Furniture Product 61,Home & Kitchen,Furniture,242.5,160.24,2022-07-20
+P0062,Mobile Product 62,Electronics,Mobile,477.72,378.47,2023-04-30
+P0063,Kitchen Appliances Product 63,Home & Kitchen,Kitchen Appliances,167.24,112.29,2023-03-14
+P0064,Snacks Product 64,Grocery,Snacks,156.46,121.35,2022-12-04
+P0065,Fitness Product 65,Sports,Fitness,397.5,316.54,2023-06-28
+P0066,Snacks Product 66,Grocery,Snacks,462.75,287.51,2024-09-23
+P0067,Furniture Product 67,Home & Kitchen,Furniture,291.36,181.86,2022-04-30
+P0068,Makeup Product 68,Beauty,Makeup,420.42,288.22,2023-10-05
+P0069,Mobile Product 69,Electronics,Mobile,543.4,378.23,2024-10-26
+P0070,Beverages Product 70,Grocery,Beverages,222.59,131.19,2022-06-14
+P0071,Staples Product 71,Grocery,Staples,343.37,194.74,2022-05-20
+P0072,Educational Product 72,Toys,Educational,484.56,315.42,2023-05-20
+P0073,Makeup Product 73,Beauty,Makeup,295.7,165.57,2022-06-17
+P0074,Indoor Product 74,Sports,Indoor,487.76,339.44,2023-10-10
+P0075,Men Product 75,Clothing,Men,14.37,10.31,2023-10-06
+P0076,Kitchen Appliances Product 76,Home & Kitchen,Kitchen Appliances,398.63,258.69,2023-09-07
+P0077,Outdoor Product 77,Sports,Outdoor,310.45,242.85,2022-05-29
+P0078,Accessories Product 78,Electronics,Accessories,464.12,327.34,2022-07-24
+P0079,Laptop Product 79,Electronics,Laptop,511.01,345.68,2022-09-29
+P0080,Men Product 80,Clothing,Men,61.49,47.34,2024-01-27
+P0081,Men Product 81,Clothing,Men,273.64,180.48,2023-09-12
+P0082,Makeup Product 82,Beauty,Makeup,342.85,233.9,2023-09-06
+P0083,Educational Product 83,Toys,Educational,477.35,374.59,2022-10-03
+P0084,Men Product 84,Clothing,Men,237.81,183.69,2022-11-15
+P0085,Women Product 85,Clothing,Women,202.98,142.33,2023-12-04
+P0086,Decor Product 86,Home & Kitchen,Decor,239.79,169.91,2023-06-25
+P0087,Hair Care Product 87,Beauty,Hair Care,409.85,251.15,2022-04-15
+P0088,Accessories Product 88,Electronics,Accessories,539.45,408.55,2022-04-01
+P0089,Audio Product 89,Electronics,Audio,436.43,324.17,2023-06-21
+P0090,Decor Product 90,Home & Kitchen,Decor,361.59,238.82,2024-05-25
+P0091,Skin Care Product 91,Beauty,Skin Care,311.65,180.12,2022-11-02
+P0092,Skin Care Product 92,Beauty,Skin Care,416.24,315.78,2022-10-31
+P0093,Fitness Product 93,Sports,Fitness,215.75,120.92,2024-01-17
+P0094,Staples Product 94,Grocery,Staples,260.68,201.96,2023-03-07
+P0095,Educational Product 95,Toys,Educational,252.95,181.3,2023-12-26
+P0096,Beverages Product 96,Grocery,Beverages,124.38,95.9,2024-04-12
+P0097,Makeup Product 97,Beauty,Makeup,335.53,197.51,2023-04-30
+P0098,Staples Product 98,Grocery,Staples,331.33,263.09,2022-12-29
+P0099,Fitness Product 99,Sports,Fitness,300.61,178.81,2023-11-12
+P0100,Snacks Product 100,Grocery,Snacks,271.85,204.04,2023-05-24
+P0101,Men Product 101,Clothing,Men,130.16,97.21,2022-08-10
+P0102,Fitness Product 102,Sports,Fitness,249.52,190.8,2023-04-01
+P0103,Kitchen Appliances Product 103,Home & Kitchen,Kitchen Appliances,258.87,165.01,2023-04-12
+P0104,Furniture Product 104,Home & Kitchen,Furniture,203.73,145.67,2024-03-27
+P0105,Women Product 105,Clothing,Women,280.65,215.0,2023-07-26
+P0106,Kids Product 106,Clothing,Kids,348.49,236.05,2023-11-10
+P0107,Mobile Product 107,Electronics,Mobile,726.34,558.74,2023-06-19
+P0108,Decor Product 108,Home & Kitchen,Decor,320.95,253.75,2023-06-28
+P0109,Mobile Product 109,Electronics,Mobile,530.91,371.18,2023-12-09
+P0110,Action Figures Product 110,Toys,Action Figures,291.07,191.84,2022-08-25
+P0111,Indoor Product 111,Sports,Indoor,69.75,41.68,2022-04-01
+P0112,Action Figures Product 112,Toys,Action Figures,296.82,163.38,2023-02-08
+P0113,Women Product 113,Clothing,Women,307.23,174.35,2023-11-08
+P0114,Hair Care Product 114,Beauty,Hair Care,595.59,426.35,2022-09-13
+P0115,Action Figures Product 115,Toys,Action Figures,276.92,187.41,2024-04-16
+P0116,Women Product 116,Clothing,Women,336.19,243.5,2022-09-18
+P0117,Kitchen Appliances Product 117,Home & Kitchen,Kitchen Appliances,295.83,211.88,2024-02-16
+P0118,Puzzles Product 118,Toys,Puzzles,159.76,123.93,2023-09-09
+P0119,Indoor Product 119,Sports,Indoor,437.14,331.54,2023-09-15
+P0120,Men Product 120,Clothing,Men,390.23,256.57,2023-10-22
+P0121,Outdoor Product 121,Sports,Outdoor,394.92,260.86,2023-03-14
+P0122,Hair Care Product 122,Beauty,Hair Care,190.87,142.85,2022-12-14
+P0123,Educational Product 123,Toys,Educational,468.34,290.81,2023-11-18
+P0124,Laptop Product 124,Electronics,Laptop,331.78,238.28,2023-04-06
+P0125,Staples Product 125,Grocery,Staples,370.42,217.38,2022-04-05
+P0126,Kitchen Appliances Product 126,Home & Kitchen,Kitchen Appliances,562.85,395.58,2022-05-30
+P0127,Outdoor Product 127,Sports,Outdoor,181.14,139.76,2023-02-03
+P0128,Puzzles Product 128,Toys,Puzzles,232.04,149.9,2024-03-29
+P0129,Furniture Product 129,Home & Kitchen,Furniture,311.96,222.74,2022-01-12
+P0130,Staples Product 130,Grocery,Staples,239.58,178.39,2023-03-25
+P0131,Decor Product 131,Home & Kitchen,Decor,113.92,77.41,2022-04-13
+P0132,Skin Care Product 132,Beauty,Skin Care,308.23,240.22,2022-09-06
+P0133,Fitness Product 133,Sports,Fitness,172.52,129.45,2023-10-12
+P0134,Snacks Product 134,Grocery,Snacks,356.83,250.91,2024-10-30
+P0135,Indoor Product 135,Sports,Indoor,189.67,125.46,2022-11-22
+P0136,Action Figures Product 136,Toys,Action Figures,485.99,321.98,2023-05-22
+P0137,Beverages Product 137,Grocery,Beverages,206.01,127.59,2024-09-19
+P0138,Educational Product 138,Toys,Educational,261.35,161.68,2022-06-08
+P0139,Action Figures Product 139,Toys,Action Figures,397.62,242.0,2023-11-19
+P0140,Kids Product 140,Clothing,Kids,152.3,86.83,2022-11-05
+P0141,Kitchen Appliances Product 141,Home & Kitchen,Kitchen Appliances,327.3,236.8,2023-03-15
+P0142,Accessories Product 142,Electronics,Accessories,656.86,428.21,2024-08-12
+P0143,Fitness Product 143,Sports,Fitness,107.1,64.44,2024-05-10
+P0144,Indoor Product 144,Sports,Indoor,322.16,253.38,2022-02-10
+P0145,Beverages Product 145,Grocery,Beverages,331.19,213.65,2022-01-13
+P0146,Women Product 146,Clothing,Women,393.82,290.78,2024-05-08
+P0147,Makeup Product 147,Beauty,Makeup,151.57,111.2,2023-03-28
+P0148,Fitness Product 148,Sports,Fitness,141.55,87.51,2024-09-21
+P0149,Accessories Product 149,Electronics,Accessories,562.63,356.73,2024-04-08
+P0150,Educational Product 150,Toys,Educational,335.64,255.13,2022-09-19

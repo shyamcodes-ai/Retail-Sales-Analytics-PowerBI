@@ -1,8 +1,8 @@
-# 📊 Retail Sales Analytics – Power BI Project
+📊 Retail Sales Analytics — Power BI Project
 
-A complete end-to-end **Data Analytics case study** built using **Power BI, SQL, and DAX**.  
-Designed to highlight strong data analysis, visualization, modeling, and storytelling skills.
+An end-to-end business intelligence project using SQL, Power BI, and DAX to uncover sales trends, customer insights, and performance KPIs.
 
+🔧 Tech Stack
 ---
 
 ## 🚀 Project Overview

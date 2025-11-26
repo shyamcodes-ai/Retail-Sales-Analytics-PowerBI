@@ -6,6 +6,24 @@ An end-to-end business intelligence project using SQL, Power BI, and DAX to unco
 ---
 
 ## 🚀 Project Overview
+
+🧩 Business Problem
+
+Retail businesses struggle to understand which products, customer segments, and regions drive the most revenue and profit. Without proper analytics, companies fail to optimize marketing, pricing, and inventory decisions.
+
+🎯 Project Goal
+
+The goal of this project is to build an end-to-end data analytics solution using SQL + Power BI + DAX to:
+
+Identify high-value customer segments
+
+Understand product/category performance
+
+Track sales trends and profit margins
+
+Highlight regions requiring attention
+
+Enable data-driven decisions through interactive dashboards
 This project analyzes **retail sales performance** to uncover insights across segments, categories, regions, and customer behavior.
 
 The dashboard consists of **2 pages**:

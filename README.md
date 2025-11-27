@@ -1,19 +1,62 @@
 📊 Retail Sales Analytics — Power BI Project
 
-An end-to-end business intelligence project using SQL, Power BI, and DAX to uncover sales trends, customer insights, and performance KPIs.
+An end-to-end Business Intelligence project using SQL, Power BI, Power Query, and DAX to uncover sales trends, customer behavior, and performance KPIs.
+
+This project demonstrates my ability to build complete BI solutions from raw data to insights using industry-standard practices.
 
 🔧 Tech Stack
----
 
-## 🚀 Project Overview
+Power BI Desktop
+
+Power Query (ETL)
+
+DAX (Measures & Calculations)
+
+SQL
+
+Data Modeling (Star Schema)
+
+GitHub
+
+🚀 Project Overview
+
+Retail businesses often struggle to understand:
+
+Which products drive the most revenue
+
+Which customer segments are most valuable
+
+Which regions perform best/worst
+
+How sales trends change over time
+
+Without proper analytics, companies fail to optimize:
+
+Marketing
+
+Pricing
+
+Inventory planning
+
+Customer retention
 
 🧩 Business Problem
 
-Retail businesses struggle to understand which products, customer segments, and regions drive the most revenue and profit. Without proper analytics, companies fail to optimize marketing, pricing, and inventory decisions.
+Retailers lack clear visibility into:
+
+Sales performance
+
+Customer behavior
+
+High/low performing product categories
+
+Regional profitability differences
+
+This limits the ability to make data-driven decisions.
 
 🎯 Project Goal
 
-The goal of this project is to build an end-to-end data analytics solution using SQL + Power BI + DAX to:
+The goal of this project is to build a complete BI solution using SQL + Power BI + DAX to:
 
 Identify high-value customer segments
 
@@ -23,39 +66,43 @@ Track sales trends and profit margins
 
 Highlight regions requiring attention
 
-Enable data-driven decisions through interactive dashboards
-This project analyzes **retail sales performance** to uncover insights across segments, categories, regions, and customer behavior.
+Provide executive-level insights through interactive dashboards
 
-The dashboard consists of **2 pages**:
+The dashboard consists of 2 pages:
 
-### **🔹 Page 1 — Sales Performance Dashboard**
-- Total Sales  
-- Total Profit  
-- Profit Margin  
-- Cancellation Rate  
-- Sales by Category (Bar Chart)  
-- Sales by Region (Donut Chart)  
-- Sales Trend by Year (Line Chart)  
-- Segment-wise Sales (Slicer + Line Chart)  
+🔹 Page 1 — Sales Performance Dashboard
 
-### **🔹 Page 2 — Customer & Product Insights**
-- Avg Order Value (AOV)  
-- Repeat Customers  
-- Repeat Rate  
-- Avg Orders per Customer  
-- Sales by Category  
-- Sales by Region  
-- Segment Slicer  
+⭐ Total Sales
 
----
+⭐ Total Profit
 
-## 🛠️ Tech Stack Used
-- **Power BI Desktop**
-- **Power Query**
-- **DAX**
-- **SQL**
-- **Data Modeling (Star Schema)**
-- **GitHub**
+⭐ Profit Margin
+
+⭐ Cancellation Rate
+
+📊 Sales by Category (Bar Chart)
+
+🥧 Sales by Region (Donut Chart)
+
+📈 Sales Trend by Year (Line Chart)
+
+🔄 Segment-wise Sales (Slicer + Line Chart)
+
+🔹 Page 2 — Customer & Product Insights
+
+💰 Avg Order Value (AOV)
+
+🔁 Repeat Customers
+
+🔁 Repeat Rate (%)
+
+📦 Avg Orders per Customer
+
+📊 Sales by Category
+
+🥧 Sales by Region
+
+🔄 Segment Slicer
 
 ---
 

@@ -1,83 +1,102 @@
-# 📊 Retail Sales Analytics — Power BI Project
+# 📊 Retail Sales Analytics — Power BI Project (Data Analyst Portfolio)
 
-An end-to-end **Business Intelligence** project using **SQL, Power BI, Power Query, and DAX** to uncover sales trends, customer behavior, and key performance KPIs.
+An end-to-end **Data Analytics & Business Intelligence** project using **SQL, Power BI, DAX, Excel, and Power Query** to analyze retail sales performance, customer behavior, and product profitability.
 
-This project demonstrates my ability to build complete BI solutions from **raw data to insights** using industry-standard practices.
+This project demonstrates complete workflow skills required for a **Data Analyst**:  
+data cleaning → data modeling → DAX → dashboard design → business insights.
 
 ---
 
 ## 🔧 Tech Stack
+- **SQL**
 - **Power BI Desktop**
 - **Power Query (ETL)**
-- **DAX (Measures & Calculations)**
-- **SQL**
+- **DAX (KPIs & Measures)**
+- **Excel**
 - **Data Modeling (Star Schema)**
-- **GitHub**
+- **GitHub Documentation**
 
 ---
 
 ## 🚀 Project Overview
 
-Retail businesses struggle to understand:
-- Which **products** drive the most revenue  
-- Which **customer segments** are most valuable  
-- Which **regions** perform best/worst  
-- How **sales trends** change over time  
+Retail companies struggle with tracking sales performance, identifying profitable products, and understanding customer behavior.  
+This project solves that by building an interactive analytics dashboard that highlights:
 
-Without proper analytics, companies fail to optimize:
-- Marketing  
-- Pricing  
-- Inventory planning  
-- Customer retention  
+- Sales trends  
+- Product/category performance  
+- Regional behavior  
+- Customer insights  
+- Profitability metrics  
+
+All insights are generated from raw data using industry-standard BI techniques.
 
 ---
 
 ## 🧩 Business Problem
 
-Retailers lack clear visibility into:
-- Sales performance  
-- Customer behavior  
-- High/low-performing product categories  
-- Regional profitability differences  
+Key challenges faced by retail businesses:
 
-This limits the ability to make data-driven decisions.
+- No clarity on which **products** drive revenue  
+- Lack of insight into **customer segments**  
+- Poor understanding of **regional sales**  
+- Difficulty in tracking **profit margins**  
+- Inability to identify **repeat customers** and loyalty patterns  
+
+This project provides a data-driven solution using dashboards and KPIs.
 
 ---
 
 ## 🎯 Project Goal
 
-The goal of this project is to build a complete BI solution using SQL + Power BI + DAX to:
+Build a complete **Data Analyst workflow** to:
 
-- Identify high-value customer segments  
-- Understand product/category performance  
-- Track sales trends and profit margins  
-- Highlight regions requiring attention  
-- Provide executive-level insights through interactive dashboards  
+- Clean & transform raw retail data  
+- Build a star schema model  
+- Create DAX calculations for KPIs  
+- Design interactive dashboards  
+- Generate insights for business decisions  
 
-The dashboard consists of **2 pages**.
+The dashboard contains **two analytical pages**.
 
 ---
 
 ## 🔹 Page 1 — Sales Performance Dashboard
+
 - ⭐ Total Sales  
 - ⭐ Total Profit  
-- ⭐ Profit Margin  
+- ⭐ Profit Margin %  
 - ⭐ Cancellation Rate  
 - 📊 Sales by Category (Bar Chart)  
 - 🥧 Sales by Region (Donut Chart)  
-- 📈 Sales Trend by Year (Line Chart)  
-- 🔄 Segment-wise Sales (Slicer + Line Chart)
+- 📈 Yearly Sales Trend  
+- 🔄 Segment Slicer + Trend  
 
 ---
 
 ## 🔹 Page 2 — Customer & Product Insights
-- 💰 Avg Order Value (AOV)  
+
+- 💰 Average Order Value (AOV)  
 - 🔁 Repeat Customers  
 - 🔁 Repeat Rate (%)  
 - 📦 Avg Orders per Customer  
 - 📊 Sales by Category  
 - 🥧 Sales by Region  
-- 🔄 Segment Slicer  
+- 🔄 Customer Segment Insights  
+
+---
+
+## 🛠 DAX Measures Created
+
+Some important DAX formulas used:
+
+- `Total Sales = SUM(Sales[Sales Amount])`
+- `Total Profit = SUM(Sales[Profit])`
+- `Profit Margin = [Total Profit] / [Total Sales]`
+- `AOV = [Total Sales] / DISTINCTCOUNT(Customer[Customer ID])`
+- `YoY Sales = CALCULATE([Total Sales], DATEADD(Date[Date], -1, YEAR))`
+
+(Full DAX file included in repository.)
 
 ---
 
@@ -85,17 +104,17 @@ The dashboard consists of **2 pages**.
 
 | File | Description |
 |------|-------------|
-| `Retail_Sales_Analytics_Project1.pbix` | Power BI Dashboard File |
-| `Retail_Sales_Analytics_Dashboard.pdf` | Exported PDF Report (Page 1 & 2) |
-| `Retail_Sales_Analytics_Queries.sql` | SQL queries used in analysis |
-| `Images/dashboard_page_1.png` | Screenshot of Page 1 |
-| `Images/dashboard_page_2.png` | Screenshot of Page 2 |
+| `Retail_Sales_Analytics_Project1.pbix` | Main Power BI dashboard |
+| `Retail_Sales_Analytics_Dashboard.pdf` | Exported PDF overview |
+| `Retail_Sales_Analytics_Queries.sql` | SQL queries used for analysis |
+| `Images/dashboard_page_1.png` | Screenshot – Sales Performance |
+| `Images/dashboard_page_2.png` | Screenshot – Customer Insights |
 
 ---
 
 ## 📸 Dashboard Preview
 
-### **Page 1 – Sales Performance Dashboard**
+### **Page 1 – Sales Performance**
 ![Dashboard Page 1](Images/dashboard_page_1.png)
 
 ### **Page 2 – Customer & Product Insights**
@@ -103,24 +122,33 @@ The dashboard consists of **2 pages**.
 
 ---
 
-## 📈 Key Business Insights From This Project
+## 📈 Key Insights
 
-- **Consumer segment** generates the highest revenue.  
-- **Technology category** drives the largest share of sales.  
-- **West region** performs significantly better than others.  
-- **Repeat customers** strongly boost overall profitability.  
-- **AOV** shows customers buy in moderate but consistent quantities.
+- **Consumer segment** generates the highest revenue  
+- **Technology** category leads in overall sales  
+- **West region** performs significantly better  
+- **Repeat customers** contribute heavily to profit  
+- **AOV** indicates stable purchasing behavior  
+- Identified weak-performing regions and categories  
+
+---
+
+## ▶ How to Use the Dashboard
+
+1. Download the `.pbix` file from the repository  
+2. Open it using **Power BI Desktop**  
+3. Explore slicers, filters, and multi-page insights  
 
 ---
 
 ## 👤 Author
 
-### **Shyam Venkat**  
-**Business Intelligence Analyst | Power BI | SQL | DAX | Data Modeling**
+### **G. Shyam Venkat**  
+**Data Analyst | SQL | Power BI | DAX | Excel | Data Modeling**
 
 🔗 GitHub: https://github.com/shyamcodes-ai  
 🔗 LinkedIn: https://www.linkedin.com/in/g-shyam-venkat-304ab536b  
 
 ---
 
-⭐ **If you found this project useful, consider giving the repository a star!**
+⭐ If you like this project, consider giving the repository a star!

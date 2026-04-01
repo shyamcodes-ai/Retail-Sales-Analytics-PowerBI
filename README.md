@@ -1,4 +1,6 @@
-# 📊 Retail Sales Analytics — Power BI Project (Data Analyst Portfolio)
+# 📊 Retail Sales Performance & Revenue Analysis Dashboard — Power BI Project (Data Analyst Portfolio)
+
+🎯 Objective: Identify key revenue drivers and uncover actionable insights to improve business performance.
 
 An end-to-end **Data Analytics & Business Intelligence** project using **SQL, Power BI, DAX, Excel, and Power Query** to analyze retail sales performance, customer behavior, and product profitability.
 
@@ -21,7 +23,7 @@ data cleaning → data modeling → DAX → dashboard design → business insigh
 ## 🚀 Project Overview
 
 Retail companies struggle with tracking sales performance, identifying profitable products, and understanding customer behavior.  
-This project solves that by building an interactive analytics dashboard that highlights:
+This project enables data-driven decision-making to improve revenue distribution, customer retention, and regional performance.
 
 - Sales trends  
 - Product/category performance  
@@ -32,7 +34,6 @@ This project solves that by building an interactive analytics dashboard that hig
 All insights are generated from raw data using industry-standard BI techniques.
 
 ---
-
 ## 🧩 Business Problem
 
 Key challenges faced by retail businesses:
@@ -46,6 +47,11 @@ Key challenges faced by retail businesses:
 This project provides a data-driven solution using dashboards and KPIs.
 
 ---
+## 🧠 Business Question Answered
+
+Why is revenue concentrated in specific segments and regions, and how can the business improve overall performance?
+
+This dashboard identifies key revenue drivers, highlights underperforming areas, and provides actionable insights for business optimization.
 
 ## 🎯 Project Goal
 
@@ -121,16 +127,24 @@ Some important DAX formulas used:
 ![Dashboard Page 2](Images/dashboard_page_2.png)
 
 ---
+## 📊 Key Decision Use
+- Identify high and low-performing regions
+- Detect customer retention patterns
+- Optimize product category focus
 
-## 📈 Key Insights
+## 📌 Final Business Insight
 
-- **Consumer segment** generates the highest revenue  
-- **Technology** category leads in overall sales  
-- **West region** performs significantly better  
-- **Repeat customers** contribute heavily to profit  
-- **AOV** indicates stable purchasing behavior  
-- Identified weak-performing regions and categories  
+Revenue is heavily concentrated in the Consumer segment and Technology category, indicating dependency on limited revenue drivers.
 
+Repeat customers contribute a significant portion of total revenue, highlighting strong retention but also exposing risk due to low diversification in customer acquisition.
+
+Additionally, regional performance is uneven, with certain regions underperforming compared to overall sales trends.
+
+📊 Recommendation:
+- Strengthen retention strategies through targeted campaigns and loyalty programs
+- Improve underperforming regions via localized marketing and pricing adjustments
+- Optimize product mix to reduce over-dependence on specific categories
+These actions help stabilize revenue, reduce dependency risk, and improve scalability.
 ---
 
 ## ▶ How to Use the Dashboard
@@ -152,3 +166,4 @@ Some important DAX formulas used:
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+
